@@ -1,6 +1,4 @@
-### Hi👋
-Gachon University AI.Software college Artificial intelligence major
-
+### Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋
 ---
 
 <!-- 프레임워크 -->
