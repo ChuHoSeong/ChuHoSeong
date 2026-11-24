@@ -1,4 +1,18 @@
-### Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋 Hi👋
+---
+<div align="center">
+
+<br>
+
+### *"Coding isn't cool anymore.*
+### *LLMs are ruining the world."*
+
+<sub>— <b>Anonymous Developer</b>, 2026</sub>
+
+<br>
+
+</div>
+
+
 ---
 <img src="https://komarev.com/ghpvc/?username=ChuHoSeong&label=Profile%20views&color=0e75b6&style=flat" />
 
