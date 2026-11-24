@@ -6,7 +6,7 @@
 ### *"Coding isn't cool anymore.*
 ### *LLMs are ruining the world."*
 
-<sub>— <b>Anonymous Developer</b>, 2026 -</sub>
+<sub>— <b>Anonymous Developer</b>, 2026 —</sub>
 
 <br>
 
